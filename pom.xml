@@ -9,11 +9,11 @@
 		<relativePath/> 
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>springdemo</artifactId>
+	<artifactId>newpsring</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>springdemo</name>
-	<description>Demo project for Spring Boot</description>
+	<description>project for capstone</description>
 	<properties>
 		<java.version>11</java.version> 
 	</properties>
